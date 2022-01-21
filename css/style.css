@@ -1,0 +1,74 @@
+.header{
+	min-height: 100px;
+	background-color: #56642A;
+}
+.wrapper{
+	overflow: hidden;
+}
+
+.contact{
+	min-height: 200px;
+	background-color:#849531;
+	width:60%;
+	float: left;
+}
+
+.blog{
+	min-height: 200px;
+	background-color: #92A332;
+	width:40%;
+	float: right;
+}
+.container{
+	overflow: hidden;
+}
+.one{
+	min-height: 200px;
+	background-color:#4A2C40;
+	width:33.33%;
+	float: left;
+}
+.two{
+	min-height: 200px;
+	background-color:#E9BD43;
+	width:33.33%;
+	float: left;
+}
+.three{
+	min-height: 200px;
+	background-color:#7D3780;
+	width:33.33%;
+	float: left;
+}
+
+.container_3{
+	overflow: hidden;
+}
+.four{
+	min-height: 200px;
+	background-color:#FFB600;
+	width:25%;
+	float: left;
+}
+.five{
+	min-height: 200px;
+	background-color:#141824;
+	width:25%;
+	float: left;
+}
+.six{
+	min-height: 200px;
+	background-color:#4E3883;
+	width:25%;
+	float: left;
+}
+.seven{
+	min-height: 200px;
+	background-color:#425664;
+	width:25%;
+	float: left;
+}
+.footer{
+	min-height: 100px;
+	background-color:#3F6844;
+}
